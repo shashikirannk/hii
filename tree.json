@@ -1,0 +1,35 @@
+
+ [
+    {
+      "id": 10,
+      "text": "Fruits",
+      "children": [
+        {
+          "id": 11,
+          "text": "Orange",
+          "isLeaf": true
+        },
+        {
+          "id": 12,
+          "text": "Banana",
+          "isLeaf": true
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Vegetables",
+      "children": [
+        {
+          "id": 21,
+          "text": "Carrot",
+          "isLeaf": true
+        },
+        {
+          "id": 22,
+          "text": "Tomato",
+          "isLeaf": true
+        }
+      ]
+    }
+  ]
